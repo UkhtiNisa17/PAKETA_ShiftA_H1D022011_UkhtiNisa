@@ -1,0 +1,7 @@
+{
+  "name": "balapan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
